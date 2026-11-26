@@ -137,7 +137,7 @@
 
 <div align="center">
 
-### 💫 "Code. Create. Innovate. Repeat."
+### 💫 Code. Create. Innovate. Repeat.
 
 ⭐ Thanks for visiting my profile!
 
