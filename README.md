@@ -55,11 +55,28 @@
 
 ---
 
-## 🏆 GitHub Achievements
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=RITESHRSHINDE&theme=tokyonight&no-frame=true&row=1&column=6" />
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/RITESHRSHINDE/RITESHRSHINDE/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/RITESHRSHINDE/RITESHRSHINDE/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake Animation"
+    src="https://raw.githubusercontent.com/RITESHRSHINDE/RITESHRSHINDE/output/github-contribution-grid-snake.svg"
+    width="100%"
+  />
+</picture>
 
 </div>
 
